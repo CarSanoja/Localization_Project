@@ -8,3 +8,4 @@
 
 # modified environment variables
 export PWD="/home/robond/Documents/Localization_Project/build"
+export PYTHONPATH="/home/robond/Documents/Localization_Project/devel/lib/python2.7/dist-packages:$PYTHONPATH"
