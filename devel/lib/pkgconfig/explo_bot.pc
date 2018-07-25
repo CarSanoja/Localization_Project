@@ -1,0 +1,8 @@
+prefix=/home/robond/Documents/Localization_Project/devel
+
+Name: explo_bot
+Description: Description of explo_bot
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/robond/Documents/Localization_Project/devel/lib 
+Requires: 
