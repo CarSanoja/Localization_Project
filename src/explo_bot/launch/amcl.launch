@@ -22,8 +22,6 @@
     <param name="initial_pose_y" value="0.0"/>
     <param name="initial_pose_a" value="0"/>
     <param name="laser_model_type" value="likelihood_field_prob"/>
-    <param name="laser_z_hit" value="0.95"/>
-    <param name="laser_z_rand" value="0.01"/>
     <param name="odom_alpha1" value="0.006"/>
     <param name="odom_alpha2" value="0.006"/>
     <param name="odom_alpha3" value="0.009"/>
